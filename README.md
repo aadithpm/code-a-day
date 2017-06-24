@@ -17,6 +17,7 @@ Repo with solutions for katas from Codewars, regularly updated with one kata or 
 * Dubstep
 * Find The Stray Number
 * Detect Pangram
+* Highest And Lowest
 ---
   
  ### JavaScript:
