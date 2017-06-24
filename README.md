@@ -15,7 +15,8 @@ Repo with solutions for katas from Codewars, regularly updated with one kata or 
 * Sum Of Positive
 * Take A Number And Sum Its Digits Raised To The Consecutive Powers And....Eureka!!
 * Dubstep
-* Find the stray number
+* Find The Stray Number
+* Detect Pangram
 ---
   
  ### JavaScript:
