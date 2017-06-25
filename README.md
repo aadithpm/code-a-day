@@ -20,6 +20,7 @@ Repo with solutions for katas from Codewars, regularly updated with one kata or 
 * Highest And Lowest
 * Deodorant Evaporator
 * Isograms
+* ToLeetSpeak
 
 ---
   
