@@ -18,6 +18,7 @@ Repo with solutions for katas from Codewars, regularly updated with one kata or 
 * Find The Stray Number
 * Detect Pangram
 * Highest And Lowest
+* Deodorant Evaporator
 ---
   
  ### JavaScript:
