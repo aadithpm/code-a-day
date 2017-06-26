@@ -21,6 +21,8 @@ Repo with solutions for katas from Codewars, regularly updated with one kata or 
 * Deodorant Evaporator
 * Isograms
 * ToLeetSpeak
+* Permutations
+* Dashatize It
 
 ---
   
