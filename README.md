@@ -25,6 +25,7 @@ Repo with solutions for katas from Codewars, regularly updated with one kata or 
 * Dashatize It
 * Equal Sides Of An Array
 * Number Of Trailing Zeroes of N!
+* A Rule Of Divisibility By 13
 
 ---
   
