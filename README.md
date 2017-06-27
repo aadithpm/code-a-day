@@ -23,6 +23,7 @@ Repo with solutions for katas from Codewars, regularly updated with one kata or 
 * ToLeetSpeak
 * Permutations
 * Dashatize It
+* Equal Sides Of An Array
 
 ---
   
