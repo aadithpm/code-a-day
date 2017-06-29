@@ -27,6 +27,7 @@ Repo with solutions for katas from Codewars, regularly updated with one kata or 
 * Number Of Trailing Zeroes of N!
 * A Rule Of Divisibility By 13
 * Mongodb ObjectID
+* Simultaneous Equations - Three Variables
 
 ---
   
