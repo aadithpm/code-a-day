@@ -26,6 +26,7 @@ Repo with solutions for katas from Codewars, regularly updated with one kata or 
 * Equal Sides Of An Array
 * Number Of Trailing Zeroes of N!
 * A Rule Of Divisibility By 13
+* Mongodb ObjectID
 
 ---
   
