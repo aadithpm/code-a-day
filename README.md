@@ -28,6 +28,7 @@ Repo with solutions for katas from Codewars, regularly updated with one kata or 
 * A Rule Of Divisibility By 13
 * Mongodb ObjectID
 * Simultaneous Equations - Three Variables
+* Simple Fraction To Mixed Number Conversion
 
 ---
   
