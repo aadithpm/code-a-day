@@ -30,6 +30,7 @@ Repo with solutions for katas from Codewars, regularly updated with one kata or 
 * Simultaneous Equations - Three Variables
 * Simple Fraction To Mixed Number Conversion
 * Help Your Granny!
+* Maximum Subarray Sum
 
 ---
   
