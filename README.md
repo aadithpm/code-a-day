@@ -29,6 +29,7 @@ Repo with solutions for katas from Codewars, regularly updated with one kata or 
 * Mongodb ObjectID
 * Simultaneous Equations - Three Variables
 * Simple Fraction To Mixed Number Conversion
+* Help Your Granny!
 
 ---
   
