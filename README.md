@@ -32,11 +32,21 @@ Repo with solutions for katas from Codewars, regularly updated with one kata or 
 * Help Your Granny!
 * Maximum Subarray Sum
 * Coordinates Validator
-
+* Decode The Morse Code (1)
+* Can You Get The Loop
+* Simple Fun #166: Best Match
+* N00bify - English to n00b Translator
+* Common Denominators
+* Calculator
+* Next Bigger Number With The Same Digits
+* Tribonacci Sequence
+* Esolang Interpreters #1 - Introduction to Esolangs and My First Interpreter (MiniStringFuck)
 ---
   
  ### JavaScript:
   
+* Disemvowel Trolls
+* Friend or Foe
   
 ---
   
