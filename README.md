@@ -41,6 +41,9 @@ Repo with solutions for katas from Codewars, regularly updated with one kata or 
 * Next Bigger Number With The Same Digits
 * Tribonacci Sequence
 * Esolang Interpreters #1 - Introduction to Esolangs and My First Interpreter (MiniStringFuck)
+* Twice Linear
+* Array.diff
+* Strip URL Params
 ---
   
  ### JavaScript:
@@ -49,5 +52,11 @@ Repo with solutions for katas from Codewars, regularly updated with one kata or 
 * Friend or Foe
   
 ---
-  
+
+ ### C
+
+* Find The Parity Outlier
+* A Disguised Sequence (I)
+
+---  
 Feel free to fork the code and/or discuss any extensions or changes. Code away!
