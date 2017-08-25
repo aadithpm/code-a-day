@@ -44,6 +44,7 @@ Repo with solutions for katas from Codewars, regularly updated with one kata or 
 * Twice Linear
 * Array.diff
 * Strip URL Params
+* Sum By Factors
 ---
   
  ### JavaScript:
