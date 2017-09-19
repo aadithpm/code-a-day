@@ -45,6 +45,11 @@ Repo with solutions for katas from Codewars, regularly updated with one kata or 
 * Array.diff
 * Strip URL Params
 * Sum By Factors
+* Strip Comments
+* Human Readable Duration Format
+* Catching Car Mileage Numbers
+* Weight For Weight
+
 ---
   
  ### JavaScript:
