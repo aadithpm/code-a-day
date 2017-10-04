@@ -1,6 +1,6 @@
 # A Kata A Day
 
-Repo with solutions for katas from Codewars, regularly updated with one kata or more per day. Primarily used languages are **JavaScript** and **Python**.
+Repo with solutions for katas from Codewars, regularly updated with katas (hopefully one a day). Primarily used languages are **JavaScript** and **Python**.
 
 ## List of katas w/ solutions:
 
