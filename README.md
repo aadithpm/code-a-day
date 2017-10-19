@@ -49,7 +49,8 @@ Repo with solutions for katas from Codewars, regularly updated with katas (hopef
 * Human Readable Duration Format
 * Catching Car Mileage Numbers
 * Weight For Weight
-
+* Best Travel
+* Find The Next Perfect Square!
 ---
   
  ### JavaScript:
