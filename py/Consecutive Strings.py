@@ -1,3 +1,6 @@
+"""
+https://www.codewars.com/kata/consecutive-strings/python
+"""
 def longest_consec(strarr, k):
     if k < 1 or k > len(strarr) or len(strarr) == 0:
         return ''
